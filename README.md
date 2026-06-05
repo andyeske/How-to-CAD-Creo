@@ -114,6 +114,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An Electric Guitar_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Morin%20Khuur.png" width="500"> 
+
+**Figure:** _A Morin Khuur_.
+</p>
+
 ---
 <a name="S3"></a>
 ### Session 3: Advanced extrudes and splines.
