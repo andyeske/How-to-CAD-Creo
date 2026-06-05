@@ -95,7 +95,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A [Morin Khuur](https://upload.wikimedia.org/wikipedia/commons/9/95/Morin_Khuur%2C_Today%27s_North_Mongolian_Style.jpg) (a Mongolian violin).
 
 **Session Recordings:** 
-* Asynchronous: To be posted.
+* Asynchronous: https://youtu.be/Z22tp9Emzis.
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%202) folder.
