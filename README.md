@@ -100,8 +100,6 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%202) folder.
 
-([ back to top ](#back_to_top))
-
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Ukelele.png" width="500"> 
 
@@ -119,6 +117,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Figure:** _A Morin Khuur_.
 </p>
+
+([ back to top ](#back_to_top))
 
 ---
 <a name="S3"></a>
@@ -139,6 +139,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * In-person: To be posted.
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Creo/tree/main/Session%20Files/Session%203) folder.
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%203/Harmonica.png" width="500"> 
+
+**Figure:** _A Harmonica_.
+</p>
 
 ([ back to top ](#back_to_top))
 
