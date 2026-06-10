@@ -118,6 +118,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A Morin Khuur_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%202/Morin%20Khuur.png" width="500"> 
+
+**Figure:** _BONUS (In-person Session 1): A Balalaika, a three-string Russian folk instrument_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
