@@ -158,6 +158,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A Violin_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Creo/blob/main/Session%20Files/Session%203/Pipa.png" width="500"> 
+
+**Figure:** _A Pipa_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
