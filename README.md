@@ -224,7 +224,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 ### Session 5: Loft and sweep.
 (Wednesday, July 8)
 
-**Objective:** : In this session, we’ll explore two very powerful Creo tools, loft and sweep. These tools allow the user to create complicated-looking instruments, like the piping of a horn or the bell of a trombone. Session 5’s goals include: 
+**Objective:** In this session, we’ll explore two very powerful Creo tools, loft and sweep. These tools allow the user to create complicated-looking instruments, like the piping of a horn or the bell of a trombone. Session 5’s goals include: 
 * Learning how to use the loft and sweep commands.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
